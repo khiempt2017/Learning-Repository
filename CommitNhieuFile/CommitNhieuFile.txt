@@ -1,1 +1,2 @@
-git add *
+﻿git add *
+Thay đổi lần 1
